@@ -6,6 +6,7 @@ function Header(){
         <nav>
             <Link to={"/"}>Home</Link>
             <Link to={"/About"}>About</Link>
+            <Link to={"/login"}>Login</Link>
         </nav>
     )
 }
