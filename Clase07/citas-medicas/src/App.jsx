@@ -6,6 +6,8 @@ import Citas from './pages/Citas'
 import CitaDetalle from './pages/CitaDetalle'
 import NotFound from './pages/NotFound'
 
+import './pages/css/header.css'
+
 
 function App() {
 

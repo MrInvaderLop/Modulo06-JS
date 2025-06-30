@@ -1,0 +1,21 @@
+.detalles {
+    border: solid 5px;
+    
+}
+
+.detalles h2{
+    background-color: #acacf9;
+    margin: 0;
+    padding: 2%;
+    margin-bottom: 10%;
+}
+.detalles .msj{
+    background-color: #acacf9;
+    margin: 0;
+    padding: 2%;
+    margin-top: 10%;
+}
+
+.detalles .id{
+    padding: 0 2% 0 2%;
+}

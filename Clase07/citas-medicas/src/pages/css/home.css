@@ -1,0 +1,25 @@
+*{
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+}
+
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    margin: 2%;
+    padding: 5%;
+}
+
+.info div{
+    max-width: 50%;
+    border: solid 5px;
+    padding: 2%;
+}
+
+.info div ul{
+    list-style: none;
+    text-align: left;
+}

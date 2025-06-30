@@ -1,0 +1,9 @@
+section form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+section form button {
+    background-color: #9797ff;
+}

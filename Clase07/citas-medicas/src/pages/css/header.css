@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content:space-around;
+    background-color: #9797ff;
+    margin-bottom: 8%;
+}
+
+nav a{
+    background-color: #9797ff;;
+    color: black;
+}
