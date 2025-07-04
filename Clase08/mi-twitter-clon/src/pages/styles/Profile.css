@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #e6ecf0; /* fondo Twitter */
+}
+
+.profile-container {
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.profile-container h1 {
+    font-size: 24px;
+    color: #6FA0EC;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.profile-info p {
+    font-size: 16px;
+    margin: 10px 0;
+    color: black;
+}
+
+.profile-info strong {
+    color: #6FA0EC;
+}

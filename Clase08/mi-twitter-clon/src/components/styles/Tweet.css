@@ -1,0 +1,30 @@
+.tweet {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+.tweet p {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    word-wrap: break-word;
+    color: black;
+}
+
+.like-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 25px;
+    transition: background-color 0.3s;
+}
+
+.like-button:hover {
+    background-color: rgba(224,36,94,0.1);
+    color: white;
+}
